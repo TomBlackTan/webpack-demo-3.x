@@ -1,0 +1,3 @@
+jquery插件的用法三：
+1：在webpack中使用ProvidePlugin插件，会将ProvidePlugin中定义的插件 jquery合并打包到bundle中
+3：不需要在index.html首页手动引入jquery插件

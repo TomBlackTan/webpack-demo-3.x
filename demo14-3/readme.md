@@ -1,0 +1,1 @@
+要在externals中使用react和react-dom，需要在index.html手动script标签引入react 和react-dom

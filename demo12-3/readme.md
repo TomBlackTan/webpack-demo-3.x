@@ -1,0 +1,1 @@
+本例中，一个入口中的多个模块都引用了相同的react 和react-dom模块， webpack默认不会会重复包含react 额react-dom的内容，

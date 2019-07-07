@@ -1,0 +1,13 @@
+{
+  "name": "webpack-demo3",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack -p",
+    "build02": "webpack --config webpack.config.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.10.0"
+  }
+}
