@@ -1,5 +1,3 @@
-# webpack-demo-3.x
-来自阮一峰的教程，加上自己的测试用例
 This repo is a collection of simple demos of Webpack.
 
 These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn the powerful tool.
@@ -1077,4 +1075,3 @@ $ npm run dev
 ## License
 
 MIT
-
